@@ -1,0 +1,17 @@
+Really good start.
+
+1. K is constant in this case.  Can you use your reasoning to figure out how
+the well is leading to the flow distribution on the boundary?
+
+2. I think that you are interpreting this as a head profile instead of a flow
+transect??
+
+3. Start by drawing in the capture zone ... I think that this will sharpen your
+answer.
+
+4. Explain a bit more why the boundaries would lead to noncircular drawdown.
+But, the drawdown SHOULD be circular right near the well.  Why aren't they?
+
+5. Good discussion of the well effect ... use some of this thinking for the
+answer to #1!  For the 'flip' - think about how python defines a matrix's rows
+and how MODFLOW defines where row '1' is for the domain ....
